@@ -16,7 +16,7 @@ function App() {
           placeholder="Please type here..."
           autoFocus={false}
           width="100%"
-          height="200"
+          height="500"
           onChange={handleTextEdit}
           setOptions={{
             buttonList: [
